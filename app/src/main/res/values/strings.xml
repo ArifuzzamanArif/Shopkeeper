@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Product Information</string>
+
+    <string-array name="product_type">
+
+        <item>Electronic Devices</item>
+        <item>Electronic Accessories</item>
+        <item>TV and Home Appliances</item>
+        <item>Health and Beauty</item>
+        <item>Babies and Toys</item>
+        <item>Food and Beverage</item>
+        <item>Mens Fashion</item>
+        <item>Womens Fashion</item>
+        <item>Watches and Accessories</item>
+
+    </string-array>
+
+</resources>
